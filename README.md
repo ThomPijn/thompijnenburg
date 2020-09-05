@@ -1,4 +1,22 @@
-### Hi there 👋
+## 👋 Hi there
+Found me! I'm Thom and I am fascinated by Physics and AI. Currently doing Machine Learning stuff at Elsevier in Amsterdam.
+
+## 🚀 Tech I like
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Spark-informational?style=flat&logo=apachespark&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=002A32)
+
+Also familiar with:
+
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=002A32)
+
 
 <!--
 **ThomPijnenburg/thompijnenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
