@@ -4,11 +4,14 @@ Found me! I'm Thom and I am fascinated by Physics and AI. Currently doing Machin
 ## 🚀 Tech I like
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=002A32)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=002A32)
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=002A32)
 ![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Scikit-learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=002A32)
 ![](https://img.shields.io/badge/Spark-informational?style=flat&logo=apachespark&logoColor=white&color=002A32)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=002A32)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=002A32)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=002A32)
 
 Also familiar with:
 
