@@ -1,5 +1,5 @@
 ## 👋 Hi there
-Found me! I'm Thom and I am fascinated by Physics and AI. Currently doing Machine Learning stuff at Elsevier in Amsterdam.
+Found me! I'm Thom and I am fascinated by Physics and AI. Currently doing Machine Learning at Elsevier in Amsterdam.
 
 ## 🚀 Tech I like
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=002A32)
